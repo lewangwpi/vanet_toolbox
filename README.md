@@ -1,11 +1,13 @@
 # vanet_toolbox
 Vehicular Network Simulator in MATLAB/Simulink Environment based on Discrete-event System.  # vanet_toolbox
 Vehicular Network Simulator in MATLAB/Simulink Environment based on Discrete-event System.  
+
 Note:
 
 1. The 1st time running may take several minutes to initiate. It is normal, as MATLAB/Simulink is performing C code generation in order to accelerate the execution speed. Once the code generation is finished, the Simulink model or library will open, and next time it won't take too much time.
 
-2. VANET_Toolbox r2018a will be removed in future release.
+2. Only support MATLAB/Simulink R2018b 
+
 
 The vehicular network simulator, VANET toolbox, is a Simulink library. The library contains major vehicular network layers, APP layer, MAC layer, and the PHY layer.
 
